@@ -10,12 +10,12 @@
 
 * 국내 청년이  마스크 150개를 녹여 의자로 만든 사례가 존재하는 등 재활용 연구가 활발히 이루어짐
  
-## 시연 동영상 (그림 클릭)
+# 시연 동영상 (그림 클릭)
 
 [![Watch the video](https://t1.daumcdn.net/cfile/tistory/994CA84A5FAE29F33B?download)](https://www.youtube.com/embed/h0MOsyAalx4)
 
 
-## Hell Maker (김도혁/김경남/유수엽/강진호/임재준/신태욱)
+# Hell Maker (김도혁/김경남/유수엽/강진호/임재준/신태욱)
 
 * 김도혁 : 기획 / Web API 연동 페이지 제작
 

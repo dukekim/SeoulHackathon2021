@@ -33,8 +33,6 @@
 
 ## 프로젝트 배경 혹은 목적
 
-![슬라이드2](https://user-images.githubusercontent.com/46912845/103421160-5113b100-4bde-11eb-991f-b6acda357c1e.JPG)
-
 ![슬라이드3](https://user-images.githubusercontent.com/46912845/103421161-5113b100-4bde-11eb-8157-3424933180ea.JPG)
 
 ![슬라이드4](https://user-images.githubusercontent.com/46912845/103421162-51ac4780-4bde-11eb-89a1-cce34dc38577.JPG)

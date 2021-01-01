@@ -12,7 +12,7 @@
  
 # 시연 동영상 (그림 클릭)
 
-[![Watch the video](https://t1.daumcdn.net/cfile/tistory/994CA84A5FAE29F33B?download)](https://www.youtube.com/embed/h0MOsyAalx4)
+[![Watch the video](https://t1.daumcdn.net/cfile/tistory/994CA84A5FAE29F33B?download)](https://youtu.be/6W6Lan_oPBM)
 
 
 # Hell Maker (김도혁/김경남/유수엽/강진호/임재준/신태욱)

@@ -71,7 +71,7 @@
  > * UV 장치 On/Off
  > * 1분 단위 기기 상태 수집 (사용량,온도,습도등) 서버에 전송 (Thing Spark, 제작 Site)
  
-
+ <img src="https://user-images.githubusercontent.com/46912845/103462550-4cc7cf00-4d69-11eb-976e-82af8ad01100.jpg" width="50%"  title="thingspark" alt="thingspark"></img>
 
 
 # Dash Board  (Web Site)
@@ -83,6 +83,11 @@
  
   ### 관리 사이트
   
-  * Mask Dash Board : <http://mask.0-w-0/>
+  * Mask Dash Board : <http://mask.0-w-0.com/>
  
+  ### 수집 API
+  
+  * /api/collection.php?id=1&action=1&value1=휴지통용량&value2=온도&value3=습도
+ 
+  
     

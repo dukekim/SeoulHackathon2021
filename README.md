@@ -55,6 +55,7 @@
 
 ![슬라이드13](https://user-images.githubusercontent.com/46912845/103421157-4f49ed80-4bde-11eb-9501-1110303d0120.JPG)
 
-![슬라이드14](https://user-images.githubusercontent.com/46912845/103421158-507b1a80-4bde-11eb-9a7f-ef32b1deb910.JPG)
 
-![슬라이드15](https://user-images.githubusercontent.com/46912845/103421159-507b1a80-4bde-11eb-8392-e6d9c94c85a7.JPG)
+## 영상 인식 장치
+
+

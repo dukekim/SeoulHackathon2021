@@ -69,20 +69,20 @@
  > * 영상 입력 장치와 Bluetooth통신 통한 명령 처리 (통신 규약 정의)  
  > * 수집 장치 On/Off
  > * UV 장치 On/Off
- > * 1분 단위 기기 상태 수집 (사용량,온도,습도등) 서버에 전송
+ > * 1분 단위 기기 상태 수집 (사용량,온도,습도등) 서버에 전송 (Thing Spark, 제작 Site)
  
 
 
 
 # Dash Board  (Web Site)
 
+ <img src="https://user-images.githubusercontent.com/46912845/103462384-340ae980-4d68-11eb-912c-345e75053f75.jpg" width="50%"  title="DashBoard" alt="DashBoard"></img>
+
   ### 제작 도구 
    > * HTML5, PHP
  
-  ### 
+  ### 관리 사이트
+  
+  * Mask Dash Board : <http://mask.0-w-0/>
  
-
- 
-             
-             
-             
+    

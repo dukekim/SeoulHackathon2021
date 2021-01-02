@@ -30,6 +30,7 @@
 > * 신태욱 : 비전 담당
 
 
+
 # 전체 구성도
 * * *
 
@@ -74,6 +75,8 @@
  <img src="https://user-images.githubusercontent.com/46912845/103462550-4cc7cf00-4d69-11eb-976e-82af8ad01100.jpg" width="50%"  title="thingspark" alt="thingspark"></img>
 
 
+
+
 # Dash Board  (Web Site)
 
  <img src="https://user-images.githubusercontent.com/46912845/103462384-340ae980-4d68-11eb-912c-345e75053f75.jpg" width="50%"  title="DashBoard" alt="DashBoard"></img>
@@ -83,11 +86,11 @@
  
   ### 관리 사이트
   
-  * Mask Dash Board : <http://mask.0-w-0.com/>
+  > * Mask Dash Board : <http://mask.0-w-0.com/>
  
   ### 수집 API
   
-  * /api/collection.php?id=1&action=1&value1=휴지통용량&value2=온도&value3=습도
+  > * /api/collection.php?id=1&action=1&value1=휴지통용량&value2=온도&value3=습도
  
   
     

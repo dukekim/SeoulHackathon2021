@@ -30,28 +30,14 @@
 > * 신태욱 : 비전 담당
 
 
-## 프로젝트 배경 혹은 목적
+## 전체 구성도
 * * *
-
-![슬라이드4](https://user-images.githubusercontent.com/46912845/103421162-51ac4780-4bde-11eb-89a1-cce34dc38577.JPG)
-
-![슬라이드5](https://user-images.githubusercontent.com/46912845/103421163-51ac4780-4bde-11eb-8555-fbc5ea73298a.JPG)
-
-![슬라이드6](https://user-images.githubusercontent.com/46912845/103421164-5244de00-4bde-11eb-86b9-098c380402fc.JPG)
-
-![슬라이드7](https://user-images.githubusercontent.com/46912845/103421167-5244de00-4bde-11eb-9db3-e6ea799d3085.JPG)
-
-![슬라이드8](https://user-images.githubusercontent.com/46912845/103421169-52dd7480-4bde-11eb-877d-895c2b4e7db0.JPG)
-
-![슬라이드9](https://user-images.githubusercontent.com/46912845/103421170-52dd7480-4bde-11eb-86d0-f8beea16a30d.JPG)
 
 ![슬라이드10](https://user-images.githubusercontent.com/46912845/103421172-53760b00-4bde-11eb-9964-9a4cfe4f85fe.JPG)
 
 ![슬라이드11](https://user-images.githubusercontent.com/46912845/103421173-53760b00-4bde-11eb-9343-ffe579411246.JPG)
 
 ![슬라이드12](https://user-images.githubusercontent.com/46912845/103421174-540ea180-4bde-11eb-93e0-33dffa5a5edc.JPG)
-
-![슬라이드13](https://user-images.githubusercontent.com/46912845/103421157-4f49ed80-4bde-11eb-9501-1110303d0120.JPG)
 
 
 ## 영상 인식 장치

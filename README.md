@@ -30,7 +30,7 @@
 > * 신태욱 : 비전 담당
 
 
-## 전체 구성도
+# 전체 구성도
 * * *
 
 ![슬라이드10](https://user-images.githubusercontent.com/46912845/103421172-53760b00-4bde-11eb-9964-9a4cfe4f85fe.JPG)
@@ -40,7 +40,7 @@
 ![슬라이드12](https://user-images.githubusercontent.com/46912845/103421174-540ea180-4bde-11eb-93e0-33dffa5a5edc.JPG)
 
 
-## 영상 인식 장치
+# 영상 인식 장치
 * * *
 <img src="https://user-images.githubusercontent.com/46912845/103461526-569a0400-4d62-11eb-9d0c-179a74019b58.jpg" width="50%"  title="영상 인식 장치" alt="영상 인식 장치"></img>
 
@@ -55,9 +55,11 @@
 ### 특이 사항
  > * 마스크 관련한 마땅한 학습 데이타가 없어 직접 제작 하였으며, 인식률 향상을 위해서는 추가 학습이 필요함
  
- ## 마스크 수집 장치
-* * *
 
+
+
+# 마스크 수집 장치
+* * *
 
 ### 제작 도구 
  > * STM32
@@ -70,8 +72,15 @@
  > * 1분 단위 기기 상태 수집 (사용량,온도,습도등) 서버에 전송
  
 
-### Dash Board  (Web Site)
- > * STM32
+
+
+# Dash Board  (Web Site)
+
+  ### 제작 도구 
+   > * HTML5, PHP
+ 
+  ### 
+ 
 
  
              

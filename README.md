@@ -33,7 +33,6 @@
 
 ## 프로젝트 배경 혹은 목적
 * * *
-![슬라이드3](https://user-images.githubusercontent.com/46912845/103421161-5113b100-4bde-11eb-8157-3424933180ea.JPG)
 
 ![슬라이드4](https://user-images.githubusercontent.com/46912845/103421162-51ac4780-4bde-11eb-89a1-cce34dc38577.JPG)
 
@@ -58,10 +57,10 @@
 
 ## 영상 인식 장치
 * * *
-![영상인식장치](https://user-images.githubusercontent.com/46912845/103461526-569a0400-4d62-11eb-9d0c-179a74019b58.jpg)
+<img src="https://user-images.githubusercontent.com/46912845/103461526-569a0400-4d62-11eb-9d0c-179a74019b58.jpg" width="50%"  title="영상 인식 장치" alt="영상 인식 장치"></img>
 
 ### 제작 도구 
- > 유니티
+ > * 유니티
 
 ### 주요 기능
  > * 카메라를 통하여 마스크 인식 후 (화면 좌측 하단)

@@ -29,7 +29,6 @@
 >
 > * 신태욱 : 비전 담당
 
-![슬라이드2](https://user-images.githubusercontent.com/46912845/103420968-49074180-4bdd-11eb-8262-9858e7a4db9b.JPG)
 
 ## 프로젝트 배경 혹은 목적
 * * *

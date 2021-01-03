@@ -1,10 +1,10 @@
 # Folder 설명
 * * *
-> * Unity : 영상 인식 및 게임 
+> * Unity      : 영상 인식 및 게임 
 >
-> * STM32 : 마스크 수집 장치 관련 H/W제어
+> * STM32/Core : 마스크 수집 장치 관련 H/W제어
 >
-> * WebAPI: Web Site 수집 API
+> * WebAPI     : Web Site 수집 API
 
 
 # 일회용 마스크 쓰래기 수집 장치
